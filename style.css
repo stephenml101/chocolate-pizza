@@ -11,3 +11,9 @@
   top: 3%;
   width: 3%;
 }
+
+#social{
+  position: absolute;
+  right: 15%;
+  top: 5%;
+}
