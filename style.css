@@ -1,0 +1,13 @@
+/* ******HEADER***** */
+#delicious{
+  position: absolute;
+  left: 6%;
+  font-weight: bolder;
+}
+
+#small{
+  position: absolute;
+  left: 3%;
+  top: 3%;
+  width: 3%;
+}
