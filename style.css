@@ -26,8 +26,16 @@
   font-size: 20px;
   font-weight: bold;
   color:#453728;
-}
+  position: absolute;
+  top: 700px;
 
+}
+#container{
+  position:relative;
+  text-align: left;
+  color: white;
+  top: 1000px;
+}
 #list1{
   font-family: 'Work Sans', sans-serif;
   font-size: 25px;
@@ -35,7 +43,10 @@
   list-style-type:square;
   color:#453728;
   display:inline-block;
-  float:left;
+  position: absolute;
+  bottom:70px;
+  left: 30px;
+  top: 50px;
   
   }
 
@@ -43,10 +54,14 @@
   font-family: 'Work Sans', sans-serif;
   font-size: 25px;
   font-weight: bold;
+  text-align:left;
   list-style-type: square;
   color:#453728;
   display:inline-block;
-  float:left;
+  position: absolute;
+  top: 50px;
+  right: 1015px;
+  bottom: 70px;
 }
 
 #border{
@@ -54,10 +69,16 @@
   background-image: url(img/hr-img.png);
   background-repeat:repeat-x; 
   background-position: center;
+  position: relative;
+  top: 1150px;
+  bottom: 10px;
 }
 
 #vanessa img{
   float: left;
+  position: absolute;
+  top: 155px;
+  bottom: 100px;
 }
 
 #vanessa h3{
@@ -65,7 +86,10 @@
   font-size: 25px;
   font-weight:bold;
   color:#453728;
-  margin-bottom: 0px;
+  position: absolute;
+  top: 140px;
+  margin-bottom: 50px;
+  left: 100px;
 }
 
 #vanessa p{
@@ -73,10 +97,15 @@
   font-size: 20px;
   font-weight: bold;
   color:#453728;
+  position: absolute;
+  top: 180px;
+  left: 100px;
 }
 
 #share{
-  
+  position: absolute;
+  top: 90px;
+  left: 400px;
 }
 
 footer{
@@ -84,9 +113,18 @@ footer{
   font-size: 15px;
   font-weight: bold;
   color:rgb(54, 53, 53);
+  position: absolute;
+  top: 1800px;
+  bottom: 140px;
+  margin-bottom: 50px;
+  left: 500px;
 }
 
 footer img{
   text-align: center;
-  margin: 40px;
+  margin: 10px;
+  position: absolute;
+  margin-bottom: 80px;
+  left: 80px;
+  top: -40px;
 }
