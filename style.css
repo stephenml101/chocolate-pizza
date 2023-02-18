@@ -1,8 +1,17 @@
 /* ******HEADER***** */
+
 #delicious{
   position: absolute;
   left: 6%;
   font-weight: bolder;
+}
+
+#blog{
+  font-size: small;
+  color: grey;
+  position: absolute;
+  left: 6%;
+  top: 5%;
 }
 
 #small{
@@ -18,9 +27,33 @@
   top: 5%;
 }
 
+#mail{
+  position: absolute;
+  right: 10%;
+  top: 5%;
+}
 
+/* *****main***** */
 
+/* #hr{
+  width: .8%;
+  position: absolute;
+  top: 10%;
+  background-repeat: repeat-x;
 
+} */
+
+body{
+  background-image: url("img/hr-img.png");
+  background-repeat: repeat-x;
+  
+}
+
+#pizza{
+  position: absolute;
+  top: 10%;
+  left: 22%;
+}
 #text{
   font-family: 'Work Sans', sans-serif;
   font-size: 20px;
