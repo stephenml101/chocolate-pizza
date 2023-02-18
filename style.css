@@ -35,14 +35,6 @@
 
 /* *****main***** */
 
-/* #hr{
-  width: .8%;
-  position: absolute;
-  top: 10%;
-  background-repeat: repeat-x;
-
-} */
-
 body{
   background-image: url("img/hr-img.png");
   background-repeat: repeat-x;
@@ -68,6 +60,7 @@ body{
   text-align: left;
   color: white;
   top: 1000px;
+  width:120%;
 }
 #list1{
   font-family: 'Work Sans', sans-serif;
@@ -93,7 +86,7 @@ body{
   display:inline-block;
   position: absolute;
   top: 50px;
-  right: 1015px;
+  right: 1350px;
   bottom: 70px;
 }
 
@@ -147,8 +140,9 @@ footer{
   font-weight: bold;
   color:rgb(54, 53, 53);
   position: absolute;
-  top: 1800px;
+  top: 2000px;
   bottom: 140px;
+  padding: 100px;
   margin-bottom: 50px;
   left: 500px;
 }
@@ -157,7 +151,7 @@ footer img{
   text-align: center;
   margin: 10px;
   position: absolute;
-  margin-bottom: 80px;
-  left: 80px;
-  top: -40px;
+  margin-bottom: 250px;
+  left: 180px;
+  top: 5px;
 }
