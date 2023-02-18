@@ -17,3 +17,76 @@
   right: 15%;
   top: 5%;
 }
+
+
+
+
+#text{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color:#453728;
+}
+
+#list1{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  list-style-type:square;
+  color:#453728;
+  display:inline-block;
+  float:left;
+  
+  }
+
+#list2{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  list-style-type: square;
+  color:#453728;
+  display:inline-block;
+  float:left;
+}
+
+#border{
+  height: 30px;
+  background-image: url(img/hr-img.png);
+  background-repeat:repeat-x; 
+  background-position: center;
+}
+
+#vanessa img{
+  float: left;
+}
+
+#vanessa h3{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+  font-weight:bold;
+  color:#453728;
+  margin-bottom: 0px;
+}
+
+#vanessa p{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color:#453728;
+}
+
+#share{
+  
+}
+
+footer{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color:rgb(54, 53, 53);
+}
+
+footer img{
+  text-align: center;
+  margin: 40px;
+}
